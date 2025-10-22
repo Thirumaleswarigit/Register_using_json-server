@@ -1,16 +1,16 @@
 # Register_using_json-server
 python
-##1️⃣ Project Title
+1️⃣ ##Project Title
 
 User Registration System using Python & JSON Server
 
-##2️⃣ Project Description
+2️⃣ ##Project Description
 
 This project is a simple yet powerful User Registration System built with Python for the frontend logic and JSON Server as a mock backend.
 
 It allows users to register accounts, validate credentials, and store data in JSON format, providing a lightweight and efficient way to handle user information without a full-fledged database.
 
-##3️⃣ Key Features
+3️⃣ ##Key Features
 
 User Registration: Users can sign up with username, password, and email.
 
@@ -22,7 +22,7 @@ Data Retrieval: Existing user data can be fetched and displayed.
 
 Error Handling: Prevents duplicate registrations and invalid inputs.
 
-##4️⃣ Technologies Used
+4️⃣ ##Technologies Used
 
 Python – for backend logic and input handling.
 
@@ -32,7 +32,7 @@ Requests Library (Python) – for API calls (GET, POST).
 
 VS Code – IDE for development.
 
-##5️⃣ Why This Project?
+5️⃣ ##Why This Project?
 
 Great practice for working with APIs and JSON data.
 
