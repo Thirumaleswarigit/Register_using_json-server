@@ -1,0 +1,119 @@
+{
+  "posts": [
+    {
+      "id": "6203",
+      "username": "thiru",
+      "password": "123",
+      "conformpassword": "123",
+      "email": "thiru@gmail.com"
+    },
+    {
+      "id": "72bc",
+      "username": "hyma",
+      "password": "234",
+      "conformpassword": "234",
+      "email": "hyma@gmail.com"
+    },
+    {
+      "id": "bbba",
+      "username": "thiru",
+      "password": "123",
+      "conformpassword": "123",
+      "email": "thiru@gmail.com"
+    },
+    {
+      "id": "0f76",
+      "username": "hyma",
+      "password": "234",
+      "conformpassword": "234",
+      "email": "hyma@gmail.com"
+    },
+    {
+      "id": "2f89",
+      "username": "pooji",
+      "password": "346",
+      "conformpassword": "346",
+      "email": "pooji@gmail.com"
+    },
+    {
+      "id": "4f3f",
+      "username": "tulasi",
+      "password": "678",
+      "conformpassword": "678",
+      "email": "thulasi@gmail.com"
+    },
+    {
+      "id": "f5e7",
+      "username": "malli",
+      "password": "389",
+      "conformpassword": "389",
+      "email": "malli@gmail.com"
+    },
+    {
+      "id": "696f",
+      "username": "malli",
+      "password": "389",
+      "conformpassword": "389",
+      "email": "malli@gmail.com"
+    },
+    {
+      "id": "6434",
+      "username": "alluri",
+      "password": "1123",
+      "conformpassword": "123",
+      "email": "alluri@gmail.co"
+    },
+    {
+      "id": "8975",
+      "username": "koti",
+      "password": "133",
+      "conformpassword": "133",
+      "email": "koti@gmail.com"
+    },
+    {
+      "id": "a342",
+      "username": "vardini",
+      "password": "122",
+      "conformpassword": "122",
+      "email": "vardini@gmail.com"
+    },
+    {
+      "id": "fb89",
+      "username": "alluri thiru",
+      "password": "144",
+      "conformpassword": "144",
+      "email": "alluri@1gmail.com"
+    },
+    {
+      "id": "e505",
+      "username": "anu",
+      "password": "166",
+      "conformpassword": "166",
+      "email": "anu@gmail.com"
+    },
+    {
+      "id": "b229",
+      "username": "anjali",
+      "password": "3230",
+      "conformpassword": "3230",
+      "email": "anjali@gamil.com"
+    },
+    {
+      "id": "6991",
+      "username": "ammu",
+      "password": "155",
+      "conformpassword": "155",
+      "email": "ammu@gmail.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "Nice post!",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Chaitu"
+  }
+}
